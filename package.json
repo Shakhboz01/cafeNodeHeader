@@ -18,7 +18,9 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "excel4node": "^1.8.0",
     "firebase": "^9.14.0",
+    "fs": "^0.0.1-security",
     "node-schedule": "^2.1.0",
     "node-telegram-bot-api": "^0.60.0"
   }
